@@ -1,6 +1,6 @@
 # About MineCker 
 
-[中文](./README.md)|English
+[中文](/README.md)|English
 
 ### Overview
 This mod allows Minecraft Java Edition (NeoForge/Spigot/Paper/Purpur) server operators to execute Docker commands directly from in-game chat. By typing a message starting with `!docker`, the rest of the message is passed to the system’s Docker CLI, and the output (both stdout and stderr) is sent back to the player.
